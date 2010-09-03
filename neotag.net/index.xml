@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="index.xsl?c" type="text/xsl" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+	<head>
+		<meta charset="UTF-8" />
+		<title>ウェブサイト管理の新標準。</title>
+		<meta name="description" content="Web サイト管理の新標準、Movable Type 5。MT5はブログだけでなくウェブページやファイル管理も可能な、ウェブサイト全体を管理するコンテンツ管理システム(CMS)です。" />
+		<meta name="keywords" content="Movable Type, MT, Movable Type 5, Movable Type 4, MT5, MT4, ムーバブル・タイプ,CMS, ブログ, blog" />
+		<link rel="stylesheet" href="css/master.css" media="screen,print" />
+	</head>
+	<body>
+		<header>
+			<h1><a href="http://www.sixapart.jp/movabletype/">Movable Type 5 (TM)</a></h1>
+			<nav>
+				<p><a href="http://www.movabletype.jp/index.html">Movable Type.jp ドキュメント・プラグイン</a></p>
+				<ul>
+					<li><a href="#Features">Movable Type 5 の新機能</a></li>
+					<li><a href="#Lisence">ライセンスについて</a></li>
+					<li><a href="#Announcements">お知らせ</a></li>
+					<li><a href="#Cases">導入事例</a></li>
+					<li><a href="#Solutions">関連製品・ソリューション</a></li>
+				</ul>
+			</nav>
+			<form method="get" action="http://search.sixapart.jp/">
+				<fieldset>
+					<legend>サイト内を検索</legend>
+					<input type="text" name="q" placeholder="サイト内検索" /><input type="submit" title="検索実行" />
+				</fieldset>
+			</form>
+		</header>
+		<article>
+			<div class="Lead">
+				<h1><span>Movable Type 5</span> ウェブサイト管理の新標準。</h1>
+				<p>Movable Type 5 は、ブログだけではなく、ウェブサイト単位でのウェブページやファイルの管理、更新履歴の保存など、CMS（コンテンツ管理システム）としての基盤を進化させた、パブリッシング・プラットフォームです。</p>
+				<!-- /.Lead --></div>
+			<ul>
+				<li><a href="#thumbnail01"><p><img src="img/thumb_01.png" width="210" height="138" alt="CMS（コンテンツ管理システム）としての基盤を進化させた Movable Type 5 の入力画面" /></p> <p>入力画面（キャプチャ）を拡大する</p></a></li>
+				<li><a href="#thumbnail02"><p><img src="img/thumb_02.png" width="210" height="138" alt="Movable Type 5 の新しいテーマ機能" /></p> <p>テーマ機能（キャプチャ）を拡大する</p></a></li>
+			</ul>
+			<section id="Features">
+				<h2>Movable Type 5 の新機能</h2>
+				<div class="Triple01">
+					<section>
+						<a href="https://www.sixapart.jp/movabletype/customize/theme.html">
+							<h3>テーマ機能</h3>
+							<p><img src="img/img_03.png" alt="" /></p>
+						</a>
+						<p>ウェブサイトをデザインするテンプレートや、カスタムフィールド、カテゴリーなどを、まとめて『テーマ』として保存、配布が可能です。</p>
+					</section>
+					<section>
+						<a href="https://www.sixapart.jp/movabletype/customize/custom-fields.html">
+							<h3>カスタムフィールドの強化</h3>
+							<p><img src="img/img_04.png" alt="" /></p>
+						</a>
+						<p>ブログ記事や、ウェブページの投稿画面に、独自の入力項目を追加。カテゴリーに連動した、項目の表示設定が可能です。</p>
+					</section>
+					<section>
+						<a href="https://www.sixapart.jp/movabletype/management/history.html">
+							<h3>更新履歴の管理</h3>
+							<p><img src="img/img_04.png" alt="" /></p>
+						</a>
+						<p>ブログ記事や、ウェブページ、テンプレートを、いつ、誰が、どのような変更を加えたのかが一目でわかります。</p>
+					</section>
+					<!-- /.Triple01 --></div>
+				<p class="Link01"><a href="">Movable Type 5 になって使えるようになった機能の詳細</a></p>
+			</section>
+			<section id="Lisence">
+				<h2>ライセンスについて</h2>
+				<table class="Table01">
+					<thead>
+						<tr>
+							<th>製品及びライセンス</th>
+							<th>Movable Type 5</th>
+							<th>Movable Type Enterprise</th>
+							<th>個人ライセンス <span class="Badge01">FREE!</span></th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th>用途</th>
+							<td>ビジネス向け</td>
+							<td>エンタープライズ・ビジネス向け</td>
+							<td>ブロガー向け</td>
+						</tr>
+						<tr>
+							<th>ライセンス概要</th>
+							<td>法人や個人事業者でのご利用の場合はブログの内容に関わらず有償ライセンスが必要です。MT5ライセンスをご購入頂ければ、MT4をダウンロードしてご利用頂けます。</td>
+							<td>エンタープライズ・ビジネス向けに、Oracle、MS SQL対応、LDAP連携、グループ＆ロール機能、ユーザー管理機能の拡張、ワークフロー機能、ブログポータル機能等を搭載したライセンスです。</td>
+							<td>個人ライセンスとは、個人名義でダウンロードされ、個人所有のサーバーやレンタルサーバーで個人的な日記等を書くためのライセンスです。（企業や商用サイトで試用することはできません）</td>
+						</tr>
+						<tr>
+							<th>詳細及びダウンロード</th>
+							<td>
+								<p class="Link01"><a href="https://www.sixapart.jp/movabletype/license.html">Movable Type 5 詳細</a></p>
+							</td>
+							<td>
+								<p class="Link01"><a href="https://www.sixapart.jp/movabletype/mte/">Movable Type Enterprise 詳細</a></p>
+							</td>
+							<td>
+								<p class="Link02"><a href="https://www.sixapart.jp/movabletype/personal.html">ダウンロードページ・詳細</a></p>
+							</td>
+						</tr>
+						<tr>
+							<th>ライセンス料</th>
+							<td>
+								<dl>
+									<dt>1サーバー・5ユーザー</dt>
+									<dd>63,000円</dd>
+									<dt>1サーバー・無制限ユーザー</dt>
+									<dd>126,000円</dd>
+								</dl>
+							</td>
+							<td>
+								<dl>
+									<dt>マルチサーバー・無制限ユーザー</dt>
+									<dd>1,260,000円</dd>
+								</dl>
+							</td>
+							<td>
+								<dl>
+									<dt>1サーバー・無制限ユーザー</dt>
+									<dd>無償</dd>
+								</dl>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+		</section>
+		<section id="Announcements">
+			<h2>お知らせ</h2>
+			<div class="Double01">
+			<section>
+				<h3>Movable Type ニュース</h3>
+				<table class="Table02">
+					<tbody>
+						<tr>
+							<th>2010年01月06日</th>
+							<td><span class="IcoImportant">重要</span> <a href="http://www.sixapart.jp/movabletype/news/2010/01/06-1015.html">セキュリティアップデート Movable Type 5.01 および 4.27の提供を開始</a></td>
+						</tr>
+						<tr>
+							<th>2009年12月25日</th>
+							<td><a href="http://www.sixapart.jp/movabletype/news/2009/12/25-1100.html">KDDIウェブコミュニケーションズのホスティングサービス「CPI」がMovable Type 5 に対応</a></td>
+						</tr>
+						<tr>
+							<th>2009年12月08日</th>
+							<td><a href="http://www.sixapart.jp/movabletype/news/2009/12/08-1114.html">年末年始の Movable Type ユーザーサポートについてのお知らせ</a></td>
+						</tr>
+					</tbody>
+				</table>
+				<p class="Link01"><a href="http://www.sixapart.jp/movabletype/news/">Movable Type ニュース一覧</a></p>
+			</section>
+			<section>
+				<h3>セミナー紹介</h3>
+				<table class="Table02">
+					<tbody>
+						<tr>
+							<th>2010年02月22日</th>
+							<td><span class="Ico01">シックス・アパート</span> <a href="https://www.sixapart.jp/seminar/sa/2010/02/03-1759.html">次世代ウェブサイトマネジメントプラットフォーム「Power CMS for MT 2」体感 セミナー</a></td>
+						</tr>
+						<tr>
+							<th>2010年02月17日</th>
+							<td><span class="Ico02">ProNet</span> <a href="https://www.sixapart.jp/seminar/news/2010/02/03-1737.html">初心者の為のビジネスブログ入門セミナー</a></td>
+						</tr>
+						<tr>
+							<th>2010年02月16日</th>
+							<td><span class="Ico02">ProNet</span> <a href="https://www.sixapart.jp/seminar/news/2010/01/21-1053.html">MT使い方講座（3コース）</a></td>
+						</tr>
+					</tbody>
+				</table>
+				<p class="Link01"><a href="https://www.sixapart.jp/seminar/">セミナー紹介一覧</a></p>
+			</section>
+			</div>
+		</section>
+		<section id="Cases">
+			<h2>ビジネスブログ導入事例</h2>
+			<p><a href="http://www.sixapart.jp/movabletype/">Movable Type</a> や <a href="http://www.sixapart.jp/typepad/">TypePad</a>  など、シックス・アパートの製品で構築されたビジネスブログ、イントラブログの構築事例をご紹介しています。</p>
+			<div class="Double02">
+				<section class="TextAndImg01">
+					<a href="https://www.sixapart.jp/business/12843.html">
+						<h3><span class="Badge02">NEW!</span> 森ビル</h3>
+						<p><img src="img/img_06.png" alt="" /></p>
+					</a>
+					<p>六本木ヒルズや表参道ヒルズなどの建設・運営で有名な総合ディベロッパーの森ビルは、2008年8月に企業ウェブサイトのリニューアルを行った。新サイトは、最新トピックスを既存のプレスリリースとは異なるアプローチで掲載するなど、一般の利用者を意識した積極的な情報発信が目を引く。</p>
+				</section>
+				<section class="Box01">
+					<h3>用途別に事例をみる</h3>
+					<ul>
+						<li><a href="https://www.sixapart.jp/business/communication.html">コミュニケーションツールとして</a></li>
+						<li><a href="https://www.sixapart.jp/business/cms.html">CMSとして</a></li>
+						<li><a href="https://www.sixapart.jp/business/intranet.html">イントラブログとして</a></li>
+						<li><a href="https://www.sixapart.jp/business/ec.html">ECサイトとして</a></li>
+					</ul>
+				</section>
+			</div>
+			<p class="Link01"><a href="https://www.sixapart.jp/business/">シックス・アパートの製品で構築されたビジネスブログ、イントラブログの構築事例</a></p>
+		</section>
+		<section id="Solutions">
+			<h2>関連製品・ソリューション</h2>
+			<section class="TextAndImg02">
+				<a href="http://sinap.jp/service/bl/">
+					<h3>CAMP（キャンプ）</h3>
+					<p><img src="img/img_06.png" alt="" /></p>
+				</a>
+				<p>「CAMP」はTwitterやYouTubeといった様々なソーシャルメディアとの連携機能を1つにしたプロモーション・キャンペーンサイトの構築パッケージです。様々なメディアと連携した新しいコミュニケーションを実現するPC、モバイルサイトを低コストで素早く構築できます。</p>
+				<p><img src="img/img_08.png" alt="CAMP" /></p>
+			</section>
+			<p class="Link01"><a href="https://www.sixapart.jp/solutions">関連製品・ソリューション一覧</a></p>
+		</section>
+		<section id="etc">
+			<h2>その他の情報</h2>
+			<ul class="Quad">
+				<li>
+					<h3><a href="http://www.movabletype.jp/plugins/">プラグインディレクトリ</a></h3>
+					<p>Movable Type の機能を拡張するプラグインを紹介。</p>
+				</li>
+				<li>
+					<h3><a href="http://www.movabletype.jp/documentation/">Movable Type ドキュメント</a></h3>
+					<p>インストール・操作のマニュアル、テンプレートタグリファレンスなど。</p>
+				</li>
+				<li>
+					<h3><a href="https://sixapart.c-direct01.jp/cd/user/Regist/input">Movable Type News Letter 登録</a></h3>
+					<p>Movable Type ユーザーのためのメールマガジンです。リリース情報、キャンペーン情報、MTを使うためのノウハウなどをお届けします。</p>
+				</li>
+				<li>
+					<h3><a href="http://communities.movabletype.jp/">MTQ | Movable Type 5 ユーザーコミュニティ</a></h3>
+					<p>Movable Type 5について情報交換するためのコミュニティサイトです。</p>
+				</li>
+			</ul>
+		</section>
+	</article>
+	<aside>
+		<h2>Movable Type 関連情報</h2>
+		<ul>
+			<li>
+				<h3><a href="https://www.sixapart.jp/movabletype/">Movable Type 5 - Six Apart</a></h3>
+				<p>Movable Typeの提供をおこなうブログ専業のメーカーシックス・アパートの公式ページです。</p>
+			</li>
+			<li>
+				<h3><a href="https://www.sixapart.jp/solutions/mtrs.html">Movable Type リモートサービス</a></h3>
+				<p>インストール環境の設定からMovable Typeのアップグレード・構築後のサイト稼動監視までをオンラインで幅広くサポートいたします。</p>
+			</li>
+			<li>
+				<h3><a href="http://www.sixapart.jp/movabletype/news/">Movable Type ニュース</a></h3>
+				<p>Movable Type の最新情報はこちら。</p>
+			</li>
+			<li>
+				<h3><a href="http://www.movabletype.jp/pertinent/books/">関連書籍</a></h3>
+				<p>Movable Type のカスタマイズや、サイト構築のサンプルなどが掲載されたオススメ書籍を紹介。</p>
+			</li>
+			<li>
+				<h3><a href="https://www.sixapart.jp/movabletype/keitai-pack/">Movable Type 携帯Pack</a></h3>
+				<p>Movable Typeで構築したブログやウェブサイトを携帯電話で閲覧できるようにするためのプラグイン製品。</p>
+			</li>
+			<li>
+				<h3><a href="https://www.sixapart.jp/seminar/">セミナー</a></h3>
+				<p>Movable Type に関するイベント・セミナー開催の情報。</p>
+			</li>
+		</ul>
+	</aside>
+	<footer>
+		<div>
+			<h1><img src="img/logo_sixapart.png" alt="six apart" /></h1>
+			<p>シックス・アパートは、Movable Type と TypePad 、Vox の提供をおこなうブログ専業のメーカーです。</p>
+			<p>Copyright 2003-2010 Six Apart, Ltd. All rights reserved.</p>
+		</div>
+	</footer>
+	<span class="large" id="thumbnail01"><a href="#"><img src="img/thumb_01_large.png" /></a></span>
+	<span class="large" id="thumbnail02"><a href="#"><img src="img/thumb_02_large.png" /></a></span>
+</body>
+</html>
